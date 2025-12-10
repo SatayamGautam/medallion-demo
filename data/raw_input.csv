@@ -1,0 +1,10 @@
+user_id,timestamp,event,amount,country
+1,2025-11-01T10:12:34Z,click,,
+2,2025-11-01T10:12:40Z,view,,
+1,2025-11-01T10:13:00Z,purchase,9.99,IN
+3,2025-11-01T10:14:02Z,purchase,19.99,US
+2,2025-11-01T10:15:35Z,click,,
+4,2025-11-01T10:16:01Z,view,,
+5,2025-11-01T10:17:05Z,purchase,5.49,IN
+,2025-11-01T10:18:00Z,view,,
+6,not_a_date,click,,
