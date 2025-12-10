@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+echo "Binder image ready. Open notebooks/01_bronze.ipynb and run cells top-to-bottom."
